@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RandomData.Domain/bin/Debug/net6.0
+/RandomData.Domain/obj
+/RandomData.Service/bin/Debug/net6.0
+/RandomData.Service.Test/bin/Debug/net6.0
+/RandomData.Service.Test/obj
