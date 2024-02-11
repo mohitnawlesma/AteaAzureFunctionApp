@@ -1,0 +1,15 @@
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\bin\Debug\net6.0\RandomData.Service.deps.json
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\bin\Debug\net6.0\RandomData.Service.dll
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\bin\Debug\net6.0\RandomData.Service.pdb
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\bin\Debug\net6.0\RandomData.Domain.dll
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\bin\Debug\net6.0\RandomData.Domain.pdb
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.csproj.AssemblyReference.cache
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.AssemblyInfoInputs.cache
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.AssemblyInfo.cs
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.csproj.CoreCompileInputs.cache
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.csproj.CopyComplete
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.dll
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\refint\RandomData.Service.dll
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\RandomData.Service.pdb
+C:\Demo\RandomDataProcessor\RandomDataProcessor\RandomData.Service\obj\Debug\net6.0\ref\RandomData.Service.dll

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RandomData.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7185",
+      "launchBrowser": false
+    }
+  }
+}
